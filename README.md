@@ -1,4 +1,4 @@
-![Logo of the project](https://fusion-rai.herokuapp.com/static/img/logo.png)
+![FoodFinder](https://github.com/Raii-Azevedo/FoodFinder/blob/master/FoodFinder.gif)
  
 ## The Food Finder
  
