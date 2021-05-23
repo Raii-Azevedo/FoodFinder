@@ -2,9 +2,10 @@
  
 ## The Food Finder
  
-- Food Finder, é um buscador de comida que usa o recurso de busca do yelp para buscar estabelecimentos por geolocalização.
-- Food Finder, is a finder that uses the yelp search feature to search for establishments by geolocation.
- 
+- FoodFinder é um aplicativo que busca estabelecimentos de acordo com o tipo de alimento buscado. O processo de geolocalização foi feito com auxilio do API do Yelp.
+- FoodFinder is an application that searches establishments according to the type of food sought. The geolocation process was done with the help of the Yelp API.
+
+
 ## Tecnologia
  
 Aqui estão as tecnologias utilizadas nesse projeto:
