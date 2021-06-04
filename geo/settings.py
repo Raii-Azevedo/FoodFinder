@@ -21,7 +21,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/3.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-(6c%j#f3%rw39b=hry&byb)b27=uo^w_in9l@1+2ac%u)f^6^w'
+SECRET_KEY = ''
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
@@ -124,7 +124,7 @@ MEDIA_URL = '/media/'
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
-YELP_API_KEY = "Orgcpx5nefis4Rv2CrDEcFqhE8i_Vhcgm0nKt3j-6XQHpgrfyw1vZiaWuONMUH7ip7prC2bsbi1UzKgoWnRouCTPjQEAroaJSIM_xDkMJE4DD5Q5uvftL5Hoo3iVYHYx"
+YELP_API_KEY = ""
 
 GEOIP_PATH = os.path.join(BASE_DIR, 'geoip')
 
