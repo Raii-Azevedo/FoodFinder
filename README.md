@@ -45,8 +45,9 @@ Aqui estão as tecnologias utilizadas nesse projeto:
  
  
 ## Versão
- 
-1.0.0.0
+ - 2.0
+ - Nessa versão, o app sofreu uma atualização visual com CSS.
+ - In this version, the app underwent a visual update with CSS.
  
  
 ## Authors
