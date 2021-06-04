@@ -1,0 +1,30 @@
+#cabecalho {
+    background: blue;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid blue;
+}
+
+h1 {
+    color: white;
+    font-size: 2.5em;
+}
+
+a {
+    text-decoration: none;
+    padding: 5px;
+}
+
+a:link, a:visited{
+    padding: 8px 5px;
+    font-size: 1em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial', 'sans-serif';
+    color: white;
+}
+
+a:hover{
+    color: blue;
+    background-color: white;
+    text-decoration: none;
+    padding: 5px;
+}
