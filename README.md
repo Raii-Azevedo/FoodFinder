@@ -1,4 +1,4 @@
-![FoodFinder](https://github.com/Raii-Azevedo/FoodFinder/blob/master/FoodFinder.gif)
+![FoodFinder](https://github.com/Raii-Azevedo/FoodFinder/blob/master/Food-Finder-Google-Chrome-2022-0.gif)
  
 ## The Food Finder
  
