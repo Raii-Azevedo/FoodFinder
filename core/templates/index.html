@@ -6,7 +6,7 @@
             <form autocomplete="off" action="{% url 'index' %}">
                 {% csrf_token %}
                 <div class="form-group">
-                    <h4>[{{ city }} {% if country %} - {{ country }} {% endif %}]</h4>
+                <h4>PROCURE SEU RESTAURANTE</h4>
                 </div>
                 <div class="form-group">
                     <input class="form-control" type="text" name="key" placeholder="Digite um termo para busca (obrigatório)" required/>

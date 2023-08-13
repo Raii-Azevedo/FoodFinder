@@ -7,41 +7,31 @@
 
 
 ## Tecnologia
+- INSTALAÇÃO DOS REQUIREMENTS:
+- pip install -r requirements.txt
  
 Aqui estão as tecnologias utilizadas nesse projeto:
  
-- aiohttp==3.7.4.post0
-- asgiref==3.3.4
-- async-timeout==3.0.1
-- attrs==21.2.0
-- certifi==2020.12.5
-- chardet==4.0.0
-- Django==3.2.2
-- geoip2==4.1.0
-- gunicorn==20.1.0
-- idna==2.10
-- maxminddb==2.0.3
-- multidict==5.1.0
-- pytz==2021.1
-- requests==2.25.1
-- sqlparse==0.4.1
-- typing-extensions==3.10.0.0
-- urllib3==1.26.4
-- yarl==1.6.3
+- Python 3
+- Django Framework
+- Bootstrap 
+- HTML
+- CSS
+- JavaScript
 
  
 ## Services Used
  
 * Github
-* Heroku
+* Render
 * Yelp
  
  
 ## Links
  
-  - Link of deployed application: (Heroku)
+  - Link of deployed application: (Render)
   - Repository: https://github.com/Raii-Azevedo/FoodFinder
-  - Deploy: https://geo-rai.herokuapp.com/
+  - Deploy: 
  
  
 ## Versão

@@ -1,11 +1,12 @@
 # Sâo Utilitários: O Requests que foi instalado no inicio do projeto.
 import requests
+import geoip2
 # Para gerar IPs dinâmicos
 from random import randint
 # Para buscar a chave da API
 from django.conf import settings
 from django.contrib.gis.geoip2 import GeoIP2
-from django.contrib.gis.geoip2 import geoip2
+
 
 YELP_SEARCH_ENDPOINT = 'https://api.yelp.com/v3/businesses/search'
 
